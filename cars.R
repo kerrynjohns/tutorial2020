@@ -9,3 +9,5 @@ plot(cars)
 boxplot(cars$speed)
 
 boxplot(cars$dist)
+
+boxplot(cars$logspeed)
