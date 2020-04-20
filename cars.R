@@ -7,3 +7,5 @@ head(cars)
 plot(cars)
 
 boxplot(cars$speed)
+
+boxplot(cars$dist)
