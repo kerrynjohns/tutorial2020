@@ -7,3 +7,5 @@ head(cars)
 plot(cars)
 
 boxplot(cars$speed)
+
+plot(cars, col="green")
